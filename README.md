@@ -1,11 +1,17 @@
 ### Hi,
 
 
-I'm a fairly new software developer, and minecraft modder.
+I'm a fairly new software developer, minecraft modder, and game developer.
 
-- 🔭 I’m currently working on Enhanced Food mod for minecraft 1.19.4 and physics simulation software.
-- 🌱 I’m currently learning Java and ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=cplusplus).
+- I’m currently working on a physics based puzzle game using Unreal Engine![Unreal](https://img.shields.io/badge/%C2%A0-black?style=flat&logo=unrealengine).
+- I’m currently learning Java and C++![C++](https://img.shields.io/badge/%C2%A0-black?style=flat&logo=cplusplus).
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Wiilly888&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Wiilly888&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby)
 
 Maybe I'll reach somewhere in life.
+<!--
+To be added in the future
+## Programming Languages:
+- Python ![Python](https://img.shields.io/badge/%C2%A0-black?style=flat&logo=python)
+- 
+-->
