@@ -3,8 +3,7 @@
 
 I'm a fairly new software developer, minecraft modder, and game developer.
 
-- I’m currently working on a physics based puzzle game using Unreal Engine![Unreal](https://img.shields.io/badge/%C2%A0-black?style=flat&logo=unrealengine).
-- I’m currently learning Java and C++![C++](https://img.shields.io/badge/%C2%A0-black?style=flat&logo=cplusplus).
+- I’m currently learning C++![C++](https://img.shields.io/badge/%C2%A0-black?style=flat&logo=cplusplus).
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Wiilly888&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby)
 
